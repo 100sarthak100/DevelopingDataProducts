@@ -22,7 +22,7 @@ I have used Galton Families dataset, and have used lnear model to predict the ch
 
 The application is running on the link (https://sarthakapps.shinyapps.io/PredictHeight/)
 
-ui.R, and Server.R Code in my github repository (https://github.com/XavierFontane/Course-Project-Shiny-Application-and-Reproducible-Pitch)
+ui.R, and Server.R Code in my github repository (https://github.com/100sarthak100/DevelopingDataProducts)
 
 ```{r summary}
 library(HistData)
